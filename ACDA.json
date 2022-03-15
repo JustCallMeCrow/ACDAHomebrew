@@ -1,0 +1,46 @@
+{
+	"_meta": {
+		"sources": [
+			{
+				"json": "ACDA",
+				"abbreviation": "ACDA",
+				"authors": [
+					"Khanonidas"
+				],
+				"full": "Arreglo Combate Dos Armas",
+				"url": "",
+				"version": "2022.03.15"
+			}
+		],
+		"dateAdded": 1647358768757,
+		"dateLastModified": 1647358768757
+	},
+	"optionalfeature": [
+		{
+			"name": "Lucha con dos armas",
+			"source": "ACDA",
+			"featureType": [
+				"FS:F",
+                "FS:B",
+                "FS:R"
+			],
+			"entries": [
+				"Cuando estés combatiendo con dos armas, puedes añadir tu modificador por característica al daño del segundo ataque. Además, a partir de ahora puedes incorporar tu ataque de arma secundaria como parte de tu acción Atacar, en vez de tener que utilizar tu acción adicional para tal fin."
+			]
+		}
+	],
+	"feat": [
+		{
+			"name": "Combatiente con dos armas",
+			"source": "ACDA",
+			"entries": [
+				"Has dominado el combate con dos armas, obteniendo los beneficios siguientes: \u000A",
+				"·Recibes un +1 a tu CA cuando estás empuñando varias armas cuerpo a cuerpo, una en cada mano. \u000A",
+				"·Puedes combatir con dos armas incluso si las armas que estás utilizando no son ligeras. \u000A",
+				"·Puedes envainar y desenvainar dos armas a una mano en aquellas circunstancias en las que antes solo podías hacerlo con una. \u000A",
+				"·Puedes incorporar el ataque que te aporta tu arma secundaria como parte de tu acción Atacar, en vez de tener que utilizar tu acción adicional para tal fin. \u000A"
+			]
+		}
+	]	
+}
+
